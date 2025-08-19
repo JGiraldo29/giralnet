@@ -8,6 +8,8 @@ GiralNet is a private, high-trust onion routing network written in Rust. It focu
 
 This is the first stable release (v0.0.1) that provides the full core functionality.
 
+![screenshot](https://raw.githubusercontent.com/JGiraldo29/giralnet/refs/heads/main/1.png?token=GHSAT0AAAAAADJLEX2TOZZRQKGOTHKFW66G2FEILQQ)
+
 ## GiralNet Key Features
 
 -   **High-Trust Security Model**: Your safety comes from the fact that you personally know and trust every node operator in the network.
