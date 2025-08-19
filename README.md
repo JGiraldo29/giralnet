@@ -42,7 +42,7 @@ This is the first stable release (v0.0.1) that provides the full core functional
 
 ```bash
 # Clone this repository
-# git clone <your-repository-url>
+# git clone https://github.com/JGiraldo29/giralnet/
 # cd giralnet
 
 # Build the release executable
