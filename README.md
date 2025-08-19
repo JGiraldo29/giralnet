@@ -162,7 +162,7 @@ This project is licensed under the **GNU General Public License v2.0**. See the 
 
 ---
 
-## ✉️ Contact
+## Contact
 
 Juan Miguel Giraldo - `jgiraldo29@proton.me`
 
